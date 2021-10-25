@@ -42,5 +42,5 @@ An example for when subscribing to the on_member_kick event.
 
     bot.run("TOKEN")
 
-.. |dependencies| image:: https://img.shields.io/librariesio/github/Ext-Creators/discord-ext-events
-.. |license| image:: https://img.shields.io/pypi/l/discord-ext-events.svg
+.. |dependencies| image:: https://img.shields.io/librariesio/github/vincentrps/discord-ext-events
+.. |license| image:: https://img.shields.io/pypi/l/nextcord-ext-events.svg
