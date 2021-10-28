@@ -5,8 +5,6 @@ nextcord-ext-events
 
 Custom events derived from events dispatched by Discord. 
 
-    ⚠️ Work In Progress!
-
 Installation
 ------------
 
