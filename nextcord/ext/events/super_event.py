@@ -5,6 +5,12 @@ from functools import wraps
 from typing import Callable, Optional
 from ._events import _ALL
 from .utils import fetch_recent_audit_log_entry, listens_for
+from typing import Callable, Dict
+
+_ALL: Dict[str, Callable] = {
+    # This is populated by subscribed events at runtime
+}
+
 
 SLEEP_FOR = 2.5
 
