@@ -1,5 +1,6 @@
 """
     Copyright 2020 Ext-Creators
+    Copyright 2021 nextcord-ext
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -20,7 +21,7 @@ from .mixins import EventsMixin
 from . import utils
 
 
-__version__ = "0.1.0a"
+__version__ = "0.2.0a"
 
 _VersionInfo = namedtuple("_VersionInfo", "major minor micro releaselevel serial")
-version_info = _VersionInfo(major=0, minor=1, micro=0, releaselevel="alpha", serial=0)
+version_info = _VersionInfo(major=0, minor=1, micro=0, releaselevel="beta", serial=0)
