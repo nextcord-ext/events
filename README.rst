@@ -1,5 +1,5 @@
 nextcord-ext-events
-==================
+====================
 
 |dependencies| |license|
 
@@ -10,11 +10,11 @@ Custom events derived from events dispatched by Discord.
 Installation
 ------------
 
-This extension is currently not in PyPI.
+This extension is currently in PyPI.
 
 .. code-block:: sh
 
-    $ python3 -m pip install -U git+https://github.com/vincentrps/nextcord-ext-events
+    $ python3 -m pip install nextcord-ext-events
 
 
 Usage
