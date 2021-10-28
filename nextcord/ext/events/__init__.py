@@ -19,6 +19,7 @@ from collections import namedtuple
 
 from .mixins import EventsMixin
 from . import utils
+from .super_event import *
 
 
 __version__ = "0.2.0a"
