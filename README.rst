@@ -7,7 +7,7 @@ Custom events derived from events dispatched by Discord.
 
 Fork
 -----
-This i a maintained fork of discord-ext-events
+This is a maintained fork of discord-ext-events
 
 Installation
 ------------
@@ -44,5 +44,5 @@ An example for when subscribing to the on_member_kick event.
 
     bot.run("TOKEN")
 
-.. |dependencies| image:: https://img.shields.io/librariesio/github/vincentrps/nextcord-ext-events
+.. |dependencies| image:: https://img.shields.io/librariesio/github/nextcord-ext/events
 .. |license| image:: https://img.shields.io/pypi/l/nextcord-ext-events.svg
