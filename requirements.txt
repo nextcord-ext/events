@@ -1,1 +1,1 @@
-nextcord>=2.0.0a
+nextcord==2.0.0a
