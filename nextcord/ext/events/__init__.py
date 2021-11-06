@@ -22,7 +22,7 @@ from . import utils
 from .super_event import *
 
 
-__version__ = "0.2.0a"
+__version__ = "0.3.0a"
 
 _VersionInfo = namedtuple("_VersionInfo", "major minor micro releaselevel serial")
-version_info = _VersionInfo(major=0, minor=1, micro=0, releaselevel="beta", serial=0)
+version_info = _VersionInfo(major=0, minor=3, micro=0, releaselevel="beta", serial=0)
