@@ -16,7 +16,7 @@ This extension is currently in PyPI.
 
 .. code-block:: sh
 
-    $ python3 -m pip install nextcord-ext-events
+    $ python3 -m pip install n-ext[events]
 
 
 Usage
