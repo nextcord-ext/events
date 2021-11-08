@@ -15,7 +15,7 @@ setup(
     name="nextcord-ext-events",
     author="VincentRPS",
     python_requires=">=3.8.0",
-    url="https://github.com/vincentrps/nextcord-ext-events",
+    url="https://github.com/nextcord-ext/events",
     version=version,
     packages=["nextcord.ext.events"],
     license="Apache Software License",
